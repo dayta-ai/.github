@@ -10,7 +10,7 @@
 Any other information you can provide to help the reviewer
 
 ## Build selection
-- [ ] Version C
+- [ ] Version YG
 
 ## Confirmation checklist
 - [ ] My code follows the style guidelines of this project
