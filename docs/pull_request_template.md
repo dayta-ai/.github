@@ -1,6 +1,6 @@
 ## Description
    1. What is this PR trying to achieve?
-   2. Why is this PR imoprtant?
+   2. Why is this PR important?
 
 ## Related issues
 [JIRA] --
@@ -10,6 +10,7 @@
 Any other information you can provide to help the reviewer
 
 ## Build selection
+- [x] Version Normal
 - [ ] Version YG
 
 ## Confirmation checklist
